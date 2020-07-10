@@ -1,6 +1,6 @@
 {
   "name": "mwamodo/spark-installer",
-  "description": "Quick installer for Laravel Spark.",
+  "description": "Quick installer for Spark.",
   "keywords": [
     "laravel",
     "spark"
